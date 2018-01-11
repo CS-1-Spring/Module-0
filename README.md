@@ -7,8 +7,8 @@ I'm very much looking forward to our time together Tuesday. Here are a few admin
 * If you've never used it, [consult the Markdown syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
 
 # On Tuesday
-Please bring these with you.
-* Bring your laptop
-* Have one of your assignments for your courses handy (if you're a library, directions for research)
+Please bring these with you:
+* Your laptop
+* Have one of your assignments for your courses handy (if you're a librarian, directions for research)
 
 See you Tuesday. 
